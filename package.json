@@ -11,5 +11,6 @@
     "connect": "^1.9.2",
     "express": "^3.4.8",
     "socket.io": "^1.7.4"
-  }
+  },
+  "start":"node app.js"
 }
