@@ -3,6 +3,8 @@ $(function() {
   while(passw!="123789"){
     passw=prompt(' لقد اخطأت ححاول مجددا  \n ادخل كلمة السر  :')
   }
+  //var e = jQuery.Event('keydown').which = 13;
+  //e.which = 13;
   var FADE_TIME = 150; // ms
   var TYPING_TIMER_LENGTH = 400; // ms
   var COLORS = [
